@@ -1,6 +1,6 @@
 ### usejsdoc
 ---
-https://devdocs.io/
+http://usejsdoc.org/
 
 ```
 ```
