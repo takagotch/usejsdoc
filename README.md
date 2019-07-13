@@ -1,6 +1,10 @@
 ### usejsdoc
 ---
+https://github.com/jsdoc/jsdoc
+
 http://usejsdoc.org/
+
+https://jsdoc.app/
 
 ```js
 function foo() {
