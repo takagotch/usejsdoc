@@ -21,6 +21,12 @@ function Book(title, author){
 jsdoc book.js
 ```
 
-```
+```sh
+npm install -g jsdoc
+npm install --save-dev jsdoc
+npm install git+https://github.com/jsdoc/jsdoc.git
+
+./node_module/.bin/jsdoc yourJavaScriptFile.js
+jsdoc yourJavaScriptFile.js
 ```
 
